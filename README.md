@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sajeel Ahmed
+- 👀 I’m interested in MERN Stack + DevOps
+- 🌱 I’m currently learning devOps
+- 💞️ I’m looking to collaborate on MERN Stack
+- 📫 How to reach me sajeelsam35@gmail.com
